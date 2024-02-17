@@ -1,4 +1,4 @@
-# DataScience-YP-Projects
+# All projects
 
 Полное описание проектов:
 # 5.
